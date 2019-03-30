@@ -1,0 +1,7 @@
+.env
+error.log
+data/
+logs/
+node_modules/
+src/config/config.json
+tmp/
